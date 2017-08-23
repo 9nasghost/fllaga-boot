@@ -1,0 +1,13 @@
+
+[ DATABASE ] 
+http://www.unipharma-eg.com/
+[-]Database Name = unipharm_wp914
+[-]Database User = unipharm_wp914
+Database Password = 7S)PuZ05c-
+[-]Database Host = localhost
+[ DATABASE ] 
+http://www.smartcenter.co.il/
+[-]Database Name = smartcen_wp921
+[-]Database User = smartcen_wp921
+Database Password = SbP!.9i0E6
+[-]Database Host = localhost
